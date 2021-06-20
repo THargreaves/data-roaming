@@ -1,3 +1,7 @@
+## Known Issues
+
+- Before using Conda, you may need to `source /etc/profile.d/conda.sh`
+
 ## Making Changes to the OS
 
 ### Part 1: Updating and Verifying the Source
