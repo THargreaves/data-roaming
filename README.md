@@ -1,3 +1,7 @@
+## More Details
+
+Please read the corresponding [blog post](https://www.ttested.com/data-roaming) for more details.
+
 ## Known Issues
 
 - Before using Conda, you may need to `source /etc/profile.d/conda.sh`
